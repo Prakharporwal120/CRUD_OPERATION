@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "id": "YouVaCgiux0",
+      "name": "prakhar",
+      "email": "porwal@gmil,com"
+    },
+    {
+      "id": "JQDWqDuoxIE",
+      "name": "princy",
+      "email": "princy@gmail.com"
+    },
+    {
+      "id": "qarbMUBK39A",
+      "name": "gungun jain",
+      "email": "gungun@gmail.com"
+    },
+    {
+      "id": "-j6LQCrxZTg",
+      "name": "ni-shant",
+      "email": "nishant@gmail.com"
+    },
+    {
+      "id": "fwcvcabZbm8",
+      "name": "khushi porwal",
+      "email": "khushi@gmail.com"
+    },
+    {
+      "id": "-SEh-GstUho",
+      "name": "rashmi ",
+      "email": "rashmi@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
